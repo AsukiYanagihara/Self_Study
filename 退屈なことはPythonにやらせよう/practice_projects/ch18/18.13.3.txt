@@ -1,0 +1,2 @@
+演習18.13.3 は、http://inventwithpython.com/blog/2014/12/17/programming-a-bot-to-play-thesushi-
+go-round-flash-game を見てください。
